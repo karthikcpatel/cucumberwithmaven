@@ -1,0 +1,6 @@
+newStepDefinition\Login.class
+newRunner\TestRunner.class
+newRunner\FailedScenarios.class
+newRunner\TestRunnerWithTags.class
+newStepDefinition\E2E_Test.class
+newStepDefinition\SearchGoogle.class

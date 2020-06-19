@@ -1,0 +1,6 @@
+dataProviders\ConfigFileReader.class
+managers\FileReaderManager.class
+pageObjects\GoogleObjects.class
+managers\WebDriverManager$1.class
+managers\WebDriverManager.class
+pageObjects\DriverType.class
